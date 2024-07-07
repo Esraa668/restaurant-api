@@ -459,7 +459,7 @@ function showSearchInputs() {
             <input oninput="searchName(this.value)" class="form-control text" type="text" placeholder="Search By Name">
         </div>
         <div class="col-md-6">
-            <input oninput="searchFLetter(this.value)"  class="form-control text-white" type="text" placeholder="Search By First Letter">
+            <input oninput="searchFLetter(this.value)"  class="form-control text" type="text" placeholder="Search By First Letter">
         </div>
     </div>`;
 
